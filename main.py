@@ -15,7 +15,7 @@ from telebot import types
 import random
 import requests
 
-bot = telebot.TeleBot('7934195294:AAHBrYr-q-B1uL6qHW1Y90KuVlKVcQpof58')
+bot = telebot.TeleBot('#')
 
 big_dogs = ['akita','borzoi','boxer','collie','dalmatian']
 medium_dogs = ['beagle','bulldog','bullterrier','pitbull','poodle']
